@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 0553d9e3e19f043d7b436b97148dfba2
+timeCreated: 1490114306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_001
+    100004: helicopter
+    100006: Plane
+    100008: Cylinder
+    100010: main_rotor
+    100012: ref_cube
+    100014: rotor_head
+    100016: tail_rotor
+    100018: Empty
+    100020: rotor_model
+    100022: rotor_model_001
+    100024: rotor_plane
+    100026: Empty_001
+    100028: helicopter_003
+    100030: rotor_head_001
+    100032: rotor_plane_001
+    100034: tail_rotor_001
+    400000: //RootNode
+    400002: Cube_001
+    400004: helicopter
+    400006: Plane
+    400008: Cylinder
+    400010: main_rotor
+    400012: ref_cube
+    400014: rotor_head
+    400016: tail_rotor
+    400018: Empty
+    400020: rotor_model
+    400022: rotor_model_001
+    400024: rotor_plane
+    400026: Empty_001
+    400028: helicopter_003
+    400030: rotor_head_001
+    400032: rotor_plane_001
+    400034: tail_rotor_001
+    2300000: //RootNode
+    2300002: Cube_001
+    2300004: helicopter
+    2300006: Plane
+    2300008: Cylinder
+    2300010: main_rotor
+    2300012: ref_cube
+    2300014: rotor_head
+    2300016: tail_rotor
+    2300018: rotor_model
+    2300020: rotor_model_001
+    2300022: rotor_plane
+    2300024: helicopter_003
+    2300026: rotor_head_001
+    2300028: rotor_plane_001
+    2300030: tail_rotor_001
+    3300000: //RootNode
+    3300002: Cube_001
+    3300004: helicopter
+    3300006: Plane
+    3300008: Cylinder
+    3300010: main_rotor
+    3300012: ref_cube
+    3300014: rotor_head
+    3300016: tail_rotor
+    3300018: rotor_model
+    3300020: rotor_model_001
+    3300022: rotor_plane
+    3300024: helicopter_003
+    3300026: rotor_head_001
+    3300028: rotor_plane_001
+    3300030: tail_rotor_001
+    4300000: Cube
+    4300002: Cube_001
+    4300004: helicopter
+    4300006: Plane
+    4300008: Cylinder
+    4300010: ref_cube
+    4300012: rotor_head
+    4300014: main_rotor
+    4300016: tail_rotor
+    4300018: rotor_model_001
+    4300020: rotor_model
+    4300022: rotor_plane
+    4300024: helicopter_003
+    4300026: tail_rotor_001
+    4300028: rotor_head_001
+    4300030: rotor_plane_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
